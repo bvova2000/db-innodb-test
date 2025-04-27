@@ -1,0 +1,95 @@
+1 M - 8 thread
+0 - ⏱️ Total time: 244.92 seconds
+1 - ⏱️ Total time: 230.83 seconds
+2 - ⏱️ Total time: 233.05 seconds
+
+10k 1 thread
+0 - ⏱️ Total time: 26.88 seconds
+1 - ⏱️ Total time: 36.11 seconds
+2 - ⏱️ Total time: 28.69 seconds
+
+0
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       29.31 secs
+Data transferred:	        0.10 MB
+Response time:		      291.66 ms
+Transaction rate:	      170.59 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		       49.75
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      550.00 ms
+Shortest transaction:	      170.00 ms
+
+1
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       30.47 secs
+Data transferred:	        0.10 MB
+Response time:		      303.13 ms
+Transaction rate:	      164.10 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		       49.74
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      420.00 ms
+Shortest transaction:	       30.00 ms
+
+2
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       26.93 secs
+Data transferred:	        0.10 MB
+Response time:		      268.01 ms
+Transaction rate:	      185.67 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		       49.76
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      360.00 ms
+Shortest transaction:	       80.00 ms
+
+Code with time.sleep
+
+0
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       29.80 secs
+Data transferred:	        0.10 MB
+Response time:		       29.67 ms
+Transaction rate:	      167.79 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		        4.98
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      140.00 ms
+Shortest transaction:	       10.00 ms
+
+1
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       36.47 secs
+Data transferred:	        0.10 MB
+Response time:		       36.33 ms
+Transaction rate:	      137.10 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		        4.98
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      160.00 ms
+Shortest transaction:	       10.00 ms
+ 
+2
+Transactions:		     5000    hits
+Availability:		      100.00 %
+Elapsed time:		       31.62 secs
+Data transferred:	        0.10 MB
+Response time:		       31.47 ms
+Transaction rate:	      158.13 trans/sec
+Throughput:		        0.00 MB/sec
+Concurrency:		        4.98
+Successful transactions:     5000
+Failed transactions:	        0
+Longest transaction:	      140.00 ms
+Shortest transaction:	       10.00 ms
